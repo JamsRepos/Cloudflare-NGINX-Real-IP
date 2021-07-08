@@ -1,6 +1,6 @@
 # Shell Script To Update Cloudflare IP Addresses.
-# Tested on Ubuntu 18.04 LTS
-# Last updated 20th June 2021
+# Tested on Ubuntu 20.04 LTS
+# Last updated 8th July 2021
 
 ## Get Cloudflare IPv4 and IPv6 Addresses ##
 ip4='https://www.cloudflare.com/ips-v4'
